@@ -3,6 +3,9 @@
 This repository publishes the public profile shown on the
 [`w-pinkietech`](https://github.com/w-pinkietech) organization page.
 
+The official English company name is **PinkieTech Co., Ltd.** The Japanese
+registered name is **PinkieTech株式会社**, and the public brand name is **PinkieTech**.
+
 - Public profile source: [`profile/README.md`](profile/README.md)
 - Official website: [pinkie-tech.jp](https://pinkie-tech.jp)
 - Contact: [contact@pinkie-tech.jp](mailto:contact@pinkie-tech.jp)

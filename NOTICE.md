@@ -1,9 +1,9 @@
 # Notice
 
-Copyright (c) PinkieTech. All rights reserved.
+Copyright (c) PinkieTech Co., Ltd. All rights reserved.
 
 The PinkieTech name, logo, symbol, and other visual brand assets are proprietary
-to PinkieTech. Their publication in this repository does not grant permission to
+to PinkieTech Co., Ltd. Their publication in this repository does not grant permission to
 copy, modify, redistribute, or use them as a trademark, service mark, endorsement,
 or indication of affiliation.
 
